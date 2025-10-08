@@ -1,0 +1,7 @@
+out/
+logs/
+*.log
+*.tmp
+.DS_Store
+*.swp
+data/tmdb-movies.csv
