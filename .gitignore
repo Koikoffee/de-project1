@@ -1,7 +1,11 @@
 out/
+!out/.gitkeep
 logs/
+!logs/.gitkeep
+data/
+!data/.gitkeep
+data/tmdb-movies.csv
 *.log
 *.tmp
 .DS_Store
 *.swp
-data/tmdb-movies.csv
